@@ -14,8 +14,6 @@ Guide
 ^^^^^
 .. toctree::
    :maxdepth: 2
-
-   test
    :caption: Contents:
 
 
